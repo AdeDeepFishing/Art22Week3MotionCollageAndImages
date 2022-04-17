@@ -9,8 +9,8 @@
  *
  * CITATIONS: List all sources you used for this assignment.
  *
- * NOTE: This is where you write any notes you would like
- * to leave yourself or others using your code.
+ * NOTE: 
+ * Instructions: Here is a panda called Ade. When you are saying something, you are Ade.
  *
  * */
 
